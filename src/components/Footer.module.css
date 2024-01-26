@@ -1,0 +1,41 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 90%;
+    padding-top: 3vh;
+    background-color: #0D0D0D;
+}
+
+.footer p {
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+}
+
+.footer span {
+    margin-left: 10px;
+    color: white;
+}
+
+.separator {
+    border-top: 1px solid #F2F2F2;
+    width: 25%;
+    margin-bottom: -5px;
+}
+
+.footer img {
+    max-height: 16px;
+    max-width: 16px;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: white;
+}
+
+.connectIcons {
+    display: flex;
+}
+
+.horizontal {
+    display: flex;
+    align-items: center;
+}

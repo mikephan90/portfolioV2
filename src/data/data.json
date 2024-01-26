@@ -1,0 +1,18 @@
+{
+  "workExperience": [
+    {
+      "company": "Liberty Mutual Insurance",
+      "title": "iOS Software Engineer",
+      "startDate": "September 2022",
+      "endDate": "December 2023",
+      "description": "  Played a key role in enhancing the front-end functionality of iOS applications for both Liberty Mutual and\n        Safeco that catered to a substantial user base of 1.6 million active users, facilitating the seamless\n        management of insurance policies. Led the development of the billing information feature, ensuring users can\n        effortlessly access their bills and related features through full stack services, enhancing overall customer\n        engagement.\n        ● Utilizing Swift, crafted iOS solutions for creating reusable components and implementing native features\n        within the iOS mobile application.\n        ● Implemented MVVM architecture, resulting in 20% improvement in application performance, sustained\n        reliability and improved testability, thereby reducing valuable development hours by 10%.\n        ● Maintained the iOS AppStore application release process, ensuring acceptance and wide distribution,\n        resulting in a 10% increase in downloads and a 15% boost in user engagement metrics.\n        ● Employed CI/CD tools to simplify deployment processes by 15% and minimizing potential errors.\n        ● Created backend services and APIs using Javascript, Typescript, Node.js, Apollo GraphQL to support mobile\n        front-end clients,\n        improving data retrieval while maintaining data consistency and integrity.\n        ● Collaborated with cross-functional teams from product owners, designers and engineers to effectively\n        increase delivery efficiency by 25% with software that meets user requirements."
+    },
+    {
+      "company": "State Auto Insurance",
+      "title": "Software Engineer",
+      "startDate": "November 2020",
+      "endDate": "September 2022",
+      "description": "      With a small team of four, pioneered the State Auto enterprise mobile application, overseeing its evolution\n            from conceptualization to production. This involved seamlessly incorporating pre-existing company systems\n            into\n            a mobile-native interface on both iOS and Android.\n            ● In a dynamic and agile environment, worked collaboratively with the teams to design and successfully\n            delivered the State Auto App within a one-year timeframe using React Native for front end development.\n            ● Successfully implemented crucial functionalities, including viewing billing details, policy information,\n            account management, and the ability to file claims, resulting in a streamlined user experience for\n            customers.\n            ● Utilized JavaScript, TypeScript, Node.js, and Apollo GraphQL to develop and maintain backend services,\n            seamlessly integrating AWS serverless technologies like AppSync, DynamoDB, Lambda, and S3 for enhanced\n            system\n            efficiency and reliability.\n            ● Engineered RESTful and GraphQL APIs capable of supporting both read and write functionalities that could\n            be\n            consumed by multiple teams that ensured consistent data delivery to users.\n            ● Collaborated with various teams within the organization to guarantee data consistency, integrity, and\n            communication, enhancing the overall user experience."
+    }
+  ]
+}
